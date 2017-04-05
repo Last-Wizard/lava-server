@@ -20,7 +20,7 @@ MASTER_SOCKET=""
 LOGGER_SOCKET=""
 LOGLEVEL="DEBUG"
 ENCRYPT=""
-MASTER_CERT=""
+MASTER_CERTS=""
 SLAVES_CERTS=""
 
 # Read configuration variable file if it is present
