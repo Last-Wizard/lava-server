@@ -11,5 +11,5 @@
 # If set, will activate encryption using the master public and the slave
 # private keys
 # ENCRYPT="--encrypt"
-# MASTER_CERT="--master-cert /etc/lava-dispatcher/certificates.d/<master.key_secret>"
+# MASTER_CERTS="--master-cert /etc/lava-dispatcher/certificates.d/<master.key_secret>"
 # SLAVES_CERTS="--slaves-certs /etc/lava-dispatcher/certificates.d/"
